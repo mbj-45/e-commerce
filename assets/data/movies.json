@@ -1,0 +1,78 @@
+{
+    "results": [
+        {
+            "id": 399566,
+            "original_title": "Iphone 13",
+            "prix": "1000 €",
+            "poster_path": "/assets/img/iphone13pro.png",
+        },
+        {
+            "id": 615678,
+            "original_title": "Iphone X",
+            "prix": "500 €",
+            "poster_path": "/assets/img/iphone10.png",
+        },
+        {
+            "id": 460465,
+            "original_title": "Iphone 7",
+            "prix": "700 €",
+            "poster_path": "/assets/img/iphone7.png",
+        },
+        {
+            "id": 791373,
+            "original_title": "MacBook Pro",
+            "prix": "2000 €",
+            "poster_path": "/assets/img/macbookpro.png",
+        },
+        {
+            "id": 634528,
+            "original_title": "MacBook Air",
+            "prix": "1800 €",
+            "poster_path": "/assets/img/macbookair.png",
+        },
+        {
+            "id": 412656,
+            "original_title": "Imac",
+            "prix": "5000 €",
+            "poster_path": "/assets/img/imac.png",
+            "title": "Chaos Walking",
+        },
+        {
+            "id": 615457,
+            "original_title": "Ipad Air",
+            "prix": "800 €",
+            "poster_path": "/assets/img/ipadair.png",
+            "title": "Nobody",
+        },
+        {
+            "id": 527774,
+            "original_title": "Ipad Mini",
+            "prix": "300 €",
+            "poster_path": "/assets/img/ipadmini.png",
+        },
+        {
+            "id": 632357,
+            "original_title": "Ipad Pro",
+            "prix": "1500 €",
+            "poster_path": "/assets/img/ipadpro.png",
+        },
+        {
+            "id": 664767,
+            "original_title": "Apple Watch Nike",
+            "prix": "200 €",
+            "poster_path": "/assets/img/applewathnike.png",
+        },
+        {
+            "id": 793723,
+            "original_title": "Apple Watch SE",
+            "prix": "300 €",
+            "poster_path": "/assets/img/applewatchse.png",
+        },
+        {
+            "id": 458576,
+            "original_title": "Apple Watch Series 7",
+            "prix": "400 €",
+            "poster_path": "/assets/img/applewatchseries7.png",
+        }
+    ]
+}
